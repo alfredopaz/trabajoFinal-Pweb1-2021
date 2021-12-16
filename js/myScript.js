@@ -228,7 +228,7 @@ function doDelete(owner, title){
 
 /*
  * Esta función recibe los datos del articulo a editar e invoca al cgi
- * data.pl la respuesta del CGI es procesada por responseEdit
+ * article.pl la respuesta del CGI es procesada por responseEdit
  */
 function doEdit(owner, title){
 
